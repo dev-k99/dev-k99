@@ -4,8 +4,9 @@ I'm a curious and detail-oriented **Junior Software Developer** passionate about
 I work mainly in **backend and full-stack development**, while actively exploring **AI-assisted systems**.
 
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dev-k99&theme=transparent)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dev-k99&theme=transparent" alt="GitHub Streak" />
+</p>
 
 ---
 
