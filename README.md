@@ -30,6 +30,9 @@ I work mainly in **backend and full-stack development**, while actively explorin
 - **Hospital Ward Management System**  
   A fully functional health care system for patient care, staff management and medication management.
 
+- **Story Feature Clone**  
+  Insipered by Instagram & WhatApp stories, implemennted the story feauture that sees stories expire after 24hrs.
+  
 - **Fitness Tracker**  
   Workout fitness tracket that allow users to track their progress in their fitness journey.
 
