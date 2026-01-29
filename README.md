@@ -27,7 +27,7 @@ I work mainly in **backend and full-stack development**, while actively explorin
 
 ## 🏗️ Projects I'm Proud Of
 
-- **Hospital Ward Management System**  
+- **WardCare+**  
   A fully functional health care system for patient care, staff management and medication management.
 
 - **Story Feature Clone**  
