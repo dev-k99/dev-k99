@@ -21,11 +21,13 @@ I work mainly in **backend and full-stack development**, while actively explorin
   Hands-on work in relational databases like **SQL Server & PostgreSQL**
 
 - **DevOps**  
-  I have deployed a couple of projects with **Docker, Azure**, I'm currently learning **AWS Basics**
+  I have deployed a couple of projects with **Docker, Azure, Render**, I'm currently learning **AWS Basics**
 
 ---
 
 ## 🏗️ Projects I'm Proud Of
+- **Library OS**  
+ Modern library management system that uses voice searches, real time updated and QR code checkouts.
 
 - **WardCare+**  
   A fully functional health care system for patient care, staff management and medication management.
@@ -35,9 +37,6 @@ I work mainly in **backend and full-stack development**, while actively explorin
   
 - **Fitness Tracker**  
   Workout fitness tracket that allow users to track their progress in their fitness journey.
-
-- **ShopHub**  
-  E-commerce, modern website featuring modern UI/UX for customers to browse product and admins to view analytics.
 
 - **Custom-Database**  
   A well tested relational database built from scratch with **.NET 8 & C#**.
