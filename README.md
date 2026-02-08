@@ -26,6 +26,10 @@ I work mainly in **backend and full-stack development**, while actively explorin
 ---
 
 ## 🏗️ Projects I'm Proud Of
+- **PDF RAG Assistant**  
+ PDF Question & Answer Assistant that lets users upload PDFs and ask questions about their content.
+ Uses local embeddings and Groq’s free LLM API to provide fast and secure answers.
+
 - **Library OS**  
  Modern library management system that uses voice searches, real time updated and QR code checkouts.
 
@@ -34,9 +38,6 @@ I work mainly in **backend and full-stack development**, while actively explorin
 
 - **Story Feature Clone**  
   Insipered by Instagram & WhatApp stories, implemennted the story feauture that sees stories expire after 24hrs.
-  
-- **Fitness Tracker**  
-  Workout fitness tracket that allow users to track their progress in their fitness journey.
 
 - **Custom-Database**  
   A well tested relational database built from scratch with **.NET 8 & C#**.
