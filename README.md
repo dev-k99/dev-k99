@@ -26,7 +26,7 @@ I work mainly in **backend and full-stack development**, while actively explorin
 ---
 
 ## 🏗️ Projects I'm Proud Of
-- **PDF RAG Assistant**  
+- **DocLens**  
  PDF Question & Answer Assistant that lets users upload PDFs and ask questions about their content.
  Uses local embeddings and Groq’s free LLM API to provide fast and secure answers.
 
