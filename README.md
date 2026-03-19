@@ -1,65 +1,42 @@
-# 👋 Hi, Kwanele Ntshangase
 
-I'm a curious and detail-oriented **Junior Software Developer** passionate about building production-ready applications.  
-I work mainly in **backend and full-stack development**, while actively exploring **AI-assisted systems**.
+# Hi, I'm Kwanele Ntshangase 👋
 
-
----
-
-## 🚀 What I Do
-
-- **Back-End Developer**  
-  Working with **ASP.NET CORE 8, Node.js, & C#**,
-  Built projects such as **Movie Reservation System** and RESTful API integrations.
-- **Front-End Developer**  
-  I build responsive, dynamic UIs with **JavaScript, TypeScript, Tailwind CSS, and React**.
-
-- **Full-Stack Projects**  
-  Integrating tools like **React/Vite & .NET** to create interactive platforms.
-
-- **Databases**  
-  Hands-on work in relational databases like **SQL Server & PostgreSQL**
-
-- **DevOps**  
-  I have deployed a couple of projects with **Docker, Azure, Render**, I'm currently learning **AWS Basics**
+**.NET Fullstack Developer** building production systems for real users — South Africa 🇿🇦
 
 ---
 
-## 🏗️ Projects I'm Proud Of
-- **DocLens**  
- PDF Question & Answer Assistant that lets users upload PDFs and ask questions about their content.
- Uses local embeddings and Groq’s free LLM API to provide fast and secure answers.
-
-- **Library OS**  
- Modern library management system that uses voice searches, real time updated and QR code checkouts.
-
-- **WardCare+**  
-  A fully functional health care system for patient care, staff management and medication management.
-
-- **Story Feature Clone**  
-  Insipered by Instagram & WhatApp stories, implemennted the story feauture that sees stories expire after 24hrs.
-
-- **Custom-Database**  
-  A well tested relational database built from scratch with **.NET 8 & C#**.
+### What I build
+- 🏗️ **ASP.NET Core 8** REST APIs with Clean Architecture, JWT auth, and role-based access control
+- ⚛️ **React 18/19** SPAs with TypeScript, Tailwind CSS, and real-time SignalR
+- ☁️ **Cloud deployments** — Azure App Service, Render, Vercel — with GitHub Actions CI/CD
+- 🇿🇦 **SA-specific systems** — POPIA-compliant audit trails, SAPS/ITAC ticketing, OIDC workload identity federation
 
 ---
 
-## 🌱 Beyond Code
+### Tech Stack
 
-When I’m not coding, you’ll find me:
-
-- 📚 Reading self-help books  
-- ⚽ Watching sports  
-- 🔧 Experimenting with new software, AI & tech tutorials  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ---
 
-## 📫 Let’s Connect
+### Featured Projects
+| Project | Stack | Status |
+|---|---|---|
+| [ScrapFlow SA](https://github.com/dev-k99/ScrapFlow) | ASP.NET Core 8 · React 18 · SignalR · PostgreSQL · Docker | 🟢 Live |
+| [Eskhawini LibraryOS](https://github.com/dev-k99/Eskhawini-Library-System) | ASP.NET Core 8 · React 19 · Azure App Service · SignalR | 🟢 Live |
+| [WardCare+](https://github.com/dev-k99/HospitalWardManagementSystem) | ASP.NET Core 8 MVC · Azure SQL · POPIA Compliance | 🟢 Live |
+| [Doc Lens](https://github.com/dev-k99/RAG-Assistant) | Python · LangChain · FAISS · Groq LLM | 🟢 Live |
 
-- **LinkedIn:** [linkedin.com/in/kwanele-ntshangase](https://www.linkedin.com/in/kwanele-ntshangase-abab7037b/)
-- **Twitter (X):** [@just_know6](https://x.com/just_know6)
-- **Portfolio:** [https://dev-k99.github.io/Portfolio/](https://dev-k99.github.io/Portfolio/)
 ---
 
-> *“Always learning. Always building.”*
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwanele-ntshangase-abab7037b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0066ff?style=flat&logo=google-chrome&logoColor=white)](https://dev-k99.github.io/Portfolio/)
